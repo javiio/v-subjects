@@ -1,0 +1,23 @@
+.label {
+	font-size: var(--mantine-font-size-md);
+	color: var(--mantine-color-gray-7);
+	margin-bottom: rem(2);
+}
+
+.input {
+	font-size: var(--mantine-font-size-md);
+	height: rem(40);
+	margin-bottom: rem(16);
+}
+
+.sexInput {
+	margin-bottom: rem(16);
+	padding-left: 0;
+	border-color: transparent;
+}
+
+.statusInput {
+	margin-bottom: rem(16);
+	padding: rem(2) 0;
+	height: rem(40);
+}

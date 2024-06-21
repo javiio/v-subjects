@@ -1,0 +1,6 @@
+.input {
+	border-bottom: rem(1) solid var(--mantine-color-gray-4);
+	padding-left: rem(8);
+	width: rem(140);
+	text-align: center;
+}

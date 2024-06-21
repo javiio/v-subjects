@@ -1,0 +1,50 @@
+.radioCard {
+	border-radius: var(--mantine-radius-xl);
+  padding: rem(1.5) rem(8);
+	border-color: transparent;
+  transition: border-color 300ms ease;
+
+  svg path {
+    transition: border-color 300ms ease;
+  }
+}
+
+.maleCard {
+  svg path {
+    color: var(--mantine-color-blue-2);
+  }
+
+  &:hover {
+    border-color: var(--mantine-color-blue-2);
+    svg path {
+      color: var(--mantine-color-blue-3);
+    }
+  }
+
+  &[data-checked] {
+    border-color: var(--mantine-color-blue-4);
+    svg path {
+      color: var(--mantine-color-blue-4);
+    }
+  }
+}
+
+.femaleCard {
+  svg path {
+    color: var(--mantine-color-pink-2);
+  }
+
+  &:hover {
+    border-color: var(--mantine-color-pink-2);
+    svg path {
+      color: var(--mantine-color-pink-3);
+    }
+  }
+
+  &[data-checked] {
+    border-color: var(--mantine-color-pink-4);
+    svg path {
+      color: var(--mantine-color-pink-4);
+    }
+  }
+}

@@ -1,0 +1,14 @@
+.header {
+  height: rem(56px);
+  border-bottom: rem(1px) solid var(--mantine-color-gray-3);
+}
+
+.inner {
+  height: rem(56px);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  img {
+    height: rem(28);
+  }
+}
