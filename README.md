@@ -1,3 +1,12 @@
+# A _demo_ is worth a thousand ~~README~~ words
+
+[DEMO](https://vial-subjects-fraa207sk-javier-orellanas-projects.vercel.app)
+
+First things first: Play around with the demo and then come back to see how it was built :)
+
+**IMPORTANT:** Those two demo cards contain all you need to continue with the application process.
+
+
 # Subject Grid Display Application
 
 Welcome! I hope you enjoy exploring this repository as much as I enjoyed building it and learning new technologies along the way. Here, you'll find both the backend and frontend code for the assignment. Happy code reviewing!
